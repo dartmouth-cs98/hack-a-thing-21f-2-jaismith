@@ -1,25 +1,24 @@
-# Hack Technology / Project Attempted
+# SwiftUI
 
 
 ## What you built? 
 
-TODO: Short description of what you attempted to build
+A simple SwiftUI app, following Apple's SwiftUI tutorial. This app browses landmarks from a provided JSON file, and supports user interaction involving application state!
 
-Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+
 
 ## Who Did What?
 
-TODO: who worked on what part?
+I worked independently on this project.
 
 ## What you learned
 
-TODO: what worked / what didn't work
+I learned how to use SwiftUI! I've done some Swift development in the past, but it was before SwiftUI came out, and I used the old XCode storyboards. SwiftUI makes it very easy to use system styling and UI components, and I'll likely use it if there is an app component to my final project.
 
 ## Authors
 
-TODO: list of authors
+Jai K. Smith
 
 ## Acknowledgments
 
-TODO: cite any tutorials followed here
+https://developer.apple.com/tutorials/swiftui
